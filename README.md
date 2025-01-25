@@ -1,10 +1,11 @@
 ### Logistic Map and Lyapunov Exponent
 
 The **logistic map** is a mathematical model used to describe the dynamic behavior of nonlinear systems. It is expressed by the equation:
-
+$
 \[
 x_{n+1} = r x_n (1 - x_n)
 \]
+$
 
 where \( x_n \) represents the system's state at time \( n \), and \( r \) is the control parameter. The logistic map was introduced by Pierre François Verhulst in 1838 to model population growth, but it later became important in the study of chaotic systems. As the value of \( r \) changes, the system's behavior can shift from stability to chaos. Specifically:
 
